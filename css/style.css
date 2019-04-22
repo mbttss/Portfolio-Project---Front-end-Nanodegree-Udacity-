@@ -174,7 +174,7 @@ body {
 	}
 
 	.picture {
-		width: 769px;
+		width: 100%;
 		grid-area: center;
 		margin-top: 8px;
 	}
